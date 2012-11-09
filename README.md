@@ -1,0 +1,5 @@
+Einfache Funktionen
+1. SchreibenSieeineFunktionDreieck,diedreireelleParameterübernimmt,diedie Länge der drei Seiten eines Dreiecks darstellen. Die Funktion soll Wahr zurückge- ben, wenn das Dreieck rechtwinklig ist, ansonsten Falsch. Testen Sie die Funktion mit verschiedenen Argumenten, z.B. auch (3,4,5).
+2. Schreiben Sie eine Funktion Fakultaet, die eine natürliche Zahl übernimmt und deren Fakultät zurück gibt!
+3. Verwenden Sie die Funktion Fakultaet, um in einer weiteren Funktion Euler die Basis des natürlichen Logarithmus e als Näherung aus ihrer Darstellung als un- endliche Reihe zu berechnen. Die Funktion Euler übernimmt dazu eine natürliche Zahl, die die Anzahl der zu summierenden Terme angibt. Geben Sie im Haupt- programm die Zahl e bei Verwendung von 10, 100 , 150 und 200 Termen aus!
+4. Schreiben Sie eine Funktion ggT, die zwei natürliche Zahlen übernimmt und de- ren größten gemeinsamen Teiler bestimmt und zurück gibt! Bestimmen Sie damit den größten gemeinsamen Teiler von 20790 und 19404!
